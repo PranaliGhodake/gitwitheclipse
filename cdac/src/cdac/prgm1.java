@@ -7,7 +7,7 @@ public class prgm1 {
 		System.out.println("hello world");
 		System.out.println("hi world");
 		//hi
-		
+		//hey
 		//heloo
 	}
 
