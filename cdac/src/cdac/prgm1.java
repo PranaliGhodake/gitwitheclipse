@@ -8,7 +8,7 @@ public class prgm1 {
 		System.out.println("hi world");
 		//hi
 		//hey
-		//heloo
+	//helloooooooo
 	}
 
 }
